@@ -5,6 +5,7 @@ title: A Strange Story
 
 Imagine one day you open your eyes and you find yourself in a place you don't know.  
 
+
 You are surrounded by creatures, you don't really know what they are, but for some strange reason you are not scared.   
 Everything looks so strange and amazing… nothing you've seen before. Oh wait… where were you before? You don't remember…   
 It looks like these creatures know what they are doing, they are not hurting you, you kinda feel protected by them.   
