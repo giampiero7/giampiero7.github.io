@@ -2,3 +2,7 @@
 ---
 
 {% include bootstrap/css/bootstrap.min.css %}
+
+.container {
+    max-width: 730px;
+}
