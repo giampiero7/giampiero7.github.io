@@ -8,10 +8,15 @@ body {
   height: 100%;
 }
 
+article {
+  height: 100%;
+}
+
 .container {
-    max-width: 730px;
+  height: 100%;
+  max-width: 730px;
 }
 
 .fb-comments, .fb-comments iframe[style], .fb-comments span {
-   width: 100% !important;
+  width: 100% !important;
 }
