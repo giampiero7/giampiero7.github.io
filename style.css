@@ -8,6 +8,10 @@ body {
   height: 100%;
 }
 
+article {
+  min-height: 80%;
+}
+
 .container {
   height: 100%;
   max-width: 730px;
